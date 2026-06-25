@@ -1,15 +1,6 @@
 # Self-Balancing Robot
 
 An autonomous two-wheeled robot designed to maintain balance using PID control and real-time sensor feedback.
-
-## 📋 Table of Contents
-* [Overview](#overview)
-* [Hardware](#hardware)
-* [CAD Models](#cad-models)
-* [Electronics & Wiring](#electronics--wiring)
-* [Software](#software)
-* [PID Tuning](#pid-tuning)
-
 ---
 
 ## 🚀 Overview
